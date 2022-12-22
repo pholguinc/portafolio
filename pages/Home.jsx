@@ -14,7 +14,7 @@ export default function Home() {
       <div className="flex flex-col items-center justify-center h-full max-w-screen-lg px-4 mx-auto md:flex-row">
         <div className="flex flex-col justify-center">
           <h2 className="text-4xl font-bold text-white sm:text-7xl">
-            I'm a FUll Stack Developer
+            I'm a Full Stack Developer
           </h2>
           <p className="max-w-md py-4 text-gray-500">
             Soy Pedro Holguín, profesional en el ámbito del desarrollo de
