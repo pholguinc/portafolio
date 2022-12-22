@@ -21,12 +21,13 @@ const links = [
   },
   {
     id: 3,
-    link: 'habilidades'
+    link: 'proyectos'
   },
   {
     id: 4,
-    link: 'proyectos'
+    link: 'habilidades'
   },
+  
   {
     id: 5,
     link: 'contacto'
