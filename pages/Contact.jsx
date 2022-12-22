@@ -38,7 +38,7 @@ export default function Contact() {
               name="message"
               placeholder="Escribe tu mensaje"
               rows="10"
-              className="p-2 text-white bg-transparent border-2 rounded-md focus:outline-none"
+              className="text-white bg-transparent border-2 rounded-md p-62 h-80 focus:outline-none placeholder:p-5"
             ></textarea>
 
             <button className="flex items-center px-6 py-3 mx-auto my-8 text-white duration-300 rounded-md bg-gradient-to-b from-cyan-500 to-blue-500 hover:scale-110">
