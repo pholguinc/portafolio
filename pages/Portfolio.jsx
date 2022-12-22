@@ -1,12 +1,24 @@
 import React from 'react'
 import Image from "next/image";
 
+
 export default function Portfolio() {
 
   const portfolios = [
     {
       id: 1,
-      src: '/dev.jpeg'
+      src: '/portafolio.png',
+      title: 'Portafolio',
+      desc :'NextJS',
+      href: 'https://github.com/pholguinc/portafolio'
+      
+    },
+    {
+      id: 2,
+      src: '/optica.jpeg',
+      title: 'Sistema Óptica',
+      desc :'Laravel 9 + Livewire',
+      href: 'https://github.com/pholguinc/optica'
       
     }
   ]
@@ -21,14 +33,17 @@ export default function Portfolio() {
         <div  className='grid gap-8 px-12 sm:grid-cols-2 md:grid-cols-3 sm:px-0'>
         {
        
-        portfolios.map(({id, src}) => (
+        portfolios.map(({id, src, title, desc, href}) => (
 
         
-          <div key={id} className='duration-300 rounded-lg shadow-md shadow-gray-600 hover:scale-105 '>
+          <div key={id} className='rounded-lg shadow-md shadow-gray-600'>
              <img src={src} alt="" className='rounded-md' />
-             <div className='flex items-center justify-center'>
-              <button className='w-1/2 px-6 py-3 m-4 hover:scale-105'>Demo</button>
-              <button className='w-1/2 px-6 py-3 m-4 hover:scale-105'>Código</button>
+             <h2 className='my-4 font-bold text-center'>{title}</h2>
+                <p className='my-4 text-center'>{desc}</p>
+             <div className='flex items-center justify-center mb-4'>
+             <a target="_blank" href={href} className='w-1/2 px-6 py-1 m-0 text-center rounded-lg bg-gradient-to-r from-cyan-500 to-blue-500 hover:scale-105'>
+              Código
+             </a>
              </div>
           </div>
         
