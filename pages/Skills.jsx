@@ -104,10 +104,23 @@ export default function Skills() {
       style: "shadow-white",
     },
     {
-      id: 18,
+      id: 17,
       src: "./typescript.png",
       title: "Typescript",
       style: "shadow-sky-600",
+    },
+    {
+      id: 18,
+      src: "./nestjs.svg",
+      title: "Nest JS",
+      style: "shadow-pink-600",
+    }
+    ,
+    {
+      id: 19,
+      src: "./flutter.png",
+      title: "Nest JS",
+      style: "shadow-sky-500",
     }
   ];
 
