@@ -48,7 +48,7 @@ export default function Portfolio() {
           <p className="inline text-4xl font-bold border-b-4 border-gray-500">
             Proyectos
           </p>
-          <p className="py-6">Aquí puedes revisar los proyectos en los que trabajé.</p>
+          <p className="py-6 text-xl">Aquí puedes revisar los proyectos en los que trabajé.</p>
         </div>
 
         <div className="grid gap-8 px-12 sm:grid-cols-2 md:grid-cols-3 sm:px-0">

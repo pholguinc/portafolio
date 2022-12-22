@@ -8,26 +8,33 @@ div() {
             <div className="pb-8">
                 <p className='inline text-4xl font-bold border-b-4 border-gray-500'>Sobre Mi</p>
             </div> 
-        <p className='text-xl'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Magni quidem itaque voluptatibus odio nihil reprehenderit 
-            tenetur architecto minus sapiente quod dolores ut repellat
-             nemo rerum necessitatibus, optio odit recusandae consequatur
-              libero aperiam. Suscipit, itaque similique. Ad, eveniet
-               distinctio quam a ab sapiente sequi id accusamus voluptas 
-               similique? Consectetur nisi eaque pariatur, eum, alias corrupti, et quam maxime quod non vitae ut. Fugiat sit repellat recusandae officia consequatur totam aut. Temporibus deleniti quibusdam voluptates animi sequi incidunt fugit perspiciatis repellendus officia sit beatae adipisci molestias laudantium illum a quo, expedita perferendis nihil at provident ad velit mollitia non! In, asperiores totam!
+        <p className='text-xl text-justify'>
+           Hola, me llamo Pedro, tengo 24 años y actualmente curso la carrera de ingeniería de sistemas, soy programador <i><strong>full stack</strong></i> en el cual me desempeño en los diversos campos
+           según se requiera.
+
+           Me apasiona el mundo de la seguridad informática y las aplicaciones web
+           en el cual fue la razón por la cual decidí estudiar esta carrera profesional.
+           
+          
         </p>
 
-        <br />
+        <p className='mt-10 text-xl text-justify'>
+           Mis nombres son Pedro Holguín Cueva, tengo 24 años. 
+           Nací el 02 de setiembre de 1998
+           en la ciudad de Satipo, Perú. Últimamente me gustó el sistema operativo
+           linux en el que realizo mis proyectos y en el cual me gusta diseñar y personalizar
+           mi entorno de trabajo para que se vea más estético y presentable.
 
-        <p className='mt-20 text-xl'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, ullam?
-             Rerum quibusdam est molestiae perspiciatis odio sapiente fugit? 
-             Repellat nisi deserunt officia exercitationem dolorem. Explicabo,
-              minus placeat laboriosam suscipit at a possimus illo velit ad 
-              voluptate repellendus ratione alias voluptas consectetur animi 
-              quibusdam ipsam
-             corporis exercitationem deserunt inventore expedita beatae?
+           <br />
+           <br />
+           Me gustan los videojuegos en el que lo disfruto en mis días libres,
+          además de la programación web. 
+          <br />
+          Empecé desarrollando blogs para sitios multimedia
+          en Wordpress en lo que posteriormente conocí a PHP el cual me dio la experiencia
+          necesaria para poder formarme profesionalmente.
+
+           
         </p>
     </div>
     </div>

@@ -132,9 +132,9 @@ export default function Skills() {
       <div className="flex flex-col justify-center w-full h-full max-w-screen-lg p-4 mx-auto text-white">
         <div>
           <p className="inline p-2 text-4xl font-bold border-b-4 border-gray-500">
-            Experience
+            Habilidades
           </p>
-          <p className="py-6 mt-4">En esta sección menciono las tecnologías con las que trabajo.</p>
+          <p className="py-6 mt-4 text-xl">En esta sección menciono las tecnologías con las que trabajo.</p>
         </div>
 
         <div className="grid w-full grid-cols-2 gap-8 px-12 py-8 text-center sm:grid-cols-3 sm:px-0">

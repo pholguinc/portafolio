@@ -11,7 +11,7 @@ export default function Contact() {
           <p className="inline mt-4 text-4xl font-bold border-b-4 border-gray-500">
             Contacto
           </p>
-          <p className="py-6">
+          <p className="py-6 text-xl">
             Aquí puedes contactarme para cualquier duda u proyecto relacionado.
           </p>
         </div>
