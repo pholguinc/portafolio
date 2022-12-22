@@ -121,7 +121,7 @@ export default function Skills() {
           <p className="inline p-2 text-4xl font-bold border-b-4 border-gray-500">
             Experience
           </p>
-          <p className="py-6">These are the technologies I've worked with</p>
+          <p className="py-6 mt-4">En esta sección menciono las tecnologías con las que trabajo.</p>
         </div>
 
         <div className="grid w-full grid-cols-2 gap-8 px-12 py-8 text-center sm:grid-cols-3 sm:px-0">
