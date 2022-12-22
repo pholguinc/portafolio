@@ -40,7 +40,7 @@ export default function Portfolio() {
   ]
   return (
     <div
-      name="proyectos"
+      name="proyectos fff"
       className="w-full text-white sm:h-screen md:h-screen bg-gradient-to-b from-black to-gray-800"
     >
       <div className="flex flex-col justify-center w-full h-full max-w-screen-lg p-8 mx-auto">
