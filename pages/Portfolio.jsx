@@ -41,7 +41,7 @@ export default function Portfolio() {
       id: 4,
       src: '/movie.png',
       title: 'Webapp Películas',
-      desc :'Webapp API HTML+Javascript+ Bootstrap',
+      desc :'Webapp API HTML5+Javascript',
       href: 'https://github.com/pholguinc/movie-api'
       
     },
