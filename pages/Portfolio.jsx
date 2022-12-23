@@ -37,6 +37,14 @@ export default function Portfolio() {
       href: 'https://github.com/pholguinc/crud-usuarios'
       
     },
+    {
+      id: 4,
+      src: '/movie.png',
+      title: 'Webapp Películas',
+      desc :'Webapp básica con API de themoviedb',
+      href: 'https://github.com/pholguinc/movie-api'
+      
+    },
   ]
   return (
     <div
