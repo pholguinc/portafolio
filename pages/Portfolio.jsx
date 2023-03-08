@@ -45,6 +45,14 @@ export default function Portfolio() {
       href: 'https://github.com/pholguinc/movie-api'
       
     },
+    {
+      id: 5,
+      src: '/ventas.png',
+      title: 'Punto Ventas',
+      desc :'Punto de Ventas Laravel+ Livewire (No concluido)',
+      href: 'https://github.com/pholguinc/ventas'
+      
+    },
   ]
   return (
     <div
