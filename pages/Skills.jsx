@@ -33,95 +33,46 @@ export default function Skills() {
     },
     {
       id: 6,
-      src: "./nextjs.png",
-      title: "Next JS",
-      style: "shadow-white",
-    },
-    {
-      id: 7,
-      src: "./node.png",
-      title: "Node",
-      style: "shadow-green-600",
-    },
-    {
-      id: 8,
       src: "./github.png",
       title: "Github",
       style: "shadow-gray-400",
     },
     {
-      id: 8,
+      id: 7,
       src: "./java.png",
       title: "Java",
       style: "shadow-orange-400",
     },
     {
-      id: 9,
+      id: 8,
       src: "./laravel.svg",
       title: "Laravel",
       style: "shadow-red-500",
     },
     {
-      id: 10,
-      src: "./django.svg",
-      title: "Django",
-      style: "shadow-green-500",
-    },
-    {
-      id: 11,
-      src: "./c-sharp.svg",
-      title: "C #",
-      style: "shadow-purple-500",
-    },
-    {
-      id: 12,
+      id: 9,
       src: "./vue.png",
       title: "Vue JS",
       style: "shadow-emerald-500",
     },
     {
-      id: 13,
+      id: 10,
       src: "./bootstrap.svg",
       title: "Bootstrap",
       style: "shadow-violet-500",
     },
     {
-      id: 14,
+      id: 11,
       src: "./mysql.png",
       title: "MySQL",
       style: "shadow-sky-500",
     },
     {
-      id: 15,
+      id: 12,
       src: "./sql.png",
       title: "SQL Server",
       style: "shadow-red-500",
     },
-    {
-      id: 16,
-      src: "./nextjs.png",
-      title: "Next JS",
-      style: "shadow-white",
-    },
-    {
-      id: 17,
-      src: "./typescript.png",
-      title: "Typescript",
-      style: "shadow-sky-600",
-    },
-    {
-      id: 18,
-      src: "./nestjs.svg",
-      title: "Nest JS",
-      style: "shadow-pink-600",
-    }
-    ,
-    {
-      id: 19,
-      src: "./flutter.png",
-      title: "Nest JS",
-      style: "shadow-sky-500",
-    }
   ];
 
   return (
