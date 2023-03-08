@@ -19,8 +19,7 @@ export default function Home() {
           <p className="max-w-md py-4 text-gray-500">
             Soy Pedro Holguín, profesional en el ámbito del desarrollo de
             sistemas informáticos brindando una óptima solución para negocios
-            y/o empresas. Actualmente trabajo con: "Laravel, VueJS, NextJS,
-            Angular, Django, NestJS, Typescript "
+            y/o empresas. Actualmente trabajo con: "Laravel y PHP"
           </p>
           <div>
             <Link
